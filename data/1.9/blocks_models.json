@@ -16733,6 +16733,11 @@
       "all": "blocks/lapis_ore"
     }
   },
+  "lava": {
+    "textures": {
+      "particle": "block/lava_still"
+    }
+  },
   "leaves": {
     "parent": "block/block",
     "textures": {
@@ -32353,6 +32358,11 @@
         "__comment": "wall"
       }
     ]
+  },
+  "water": {
+    "textures": {
+      "particle": "block/water_still"
+    }
   },
   "waterlily": {
     "ambientocclusion": false,

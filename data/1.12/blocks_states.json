@@ -109,10 +109,34 @@
       ]
     }
   },
-  "flowing_water": null,
-  "water": null,
-  "flowing_lava": null,
-  "lava": null,
+  "flowing_water": {
+    "variants": {
+      "": {
+        "model": "block/water"
+      }
+    }
+  },
+  "water": {
+    "variants": {
+      "": {
+        "model": "block/water"
+      }
+    }
+  },
+  "flowing_lava": {
+    "variants": {
+      "": {
+        "model": "block/lava"
+      }
+    }
+  },
+  "lava": {
+    "variants": {
+      "": {
+        "model": "block/lava"
+      }
+    }
+  },
   "sand": {
     "variants": {
       "normal": [

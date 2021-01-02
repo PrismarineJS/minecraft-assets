@@ -27729,6 +27729,11 @@
       "all": "blocks/lapis_ore"
     }
   },
+  "lava": {
+    "textures": {
+      "particle": "block/lava_still"
+    }
+  },
   "leaves": {
     "textures": {
       "particle": "#all"
@@ -51679,6 +51684,11 @@
         "__comment": "Center post"
       }
     ]
+  },
+  "water": {
+    "textures": {
+      "particle": "block/water_still"
+    }
   },
   "waterlily": {
     "ambientocclusion": false,
