@@ -13,3 +13,9 @@ Minecraft-assets is language independent, you can use it with these language spe
 | --- | --- |
 | [node-minecraft-assets](https://github.com/rom1504/node-minecraft-assets) | Node.js |
 
+## Data in `common/`
+
+| File name | Description |
+| --- | --- |
+| `pre_flattening_texturepack_mappings` | Data used by minecraft to decide which texture to use from an item name and legacy metadata as a number |
+| `legacy_texturepack_mappings.json` | Data used by minecraft to convert old resourcepacks to use the new item naming |
