@@ -2787,13 +2787,13 @@
     "name": "barrier",
     "blockState": "barrier",
     "model": "minecraft:blocks/barrier",
-    "texture": "minecraft:item/barrier"
+    "texture": "minecraft:items/barrier"
   },
   {
     "name": "light",
     "blockState": "light",
     "model": "minecraft:blocks/light_00",
-    "texture": "minecraft:item/light_00"
+    "texture": "minecraft:items/light_00"
   },
   {
     "name": "iron_trapdoor",
@@ -3669,7 +3669,7 @@
     "name": "structure_void",
     "blockState": "structure_void",
     "model": "minecraft:blocks/structure_void",
-    "texture": "minecraft:item/structure_void"
+    "texture": "minecraft:items/structure_void"
   },
   {
     "name": "observer",
