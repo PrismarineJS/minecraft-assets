@@ -1,3 +1,6 @@
+## 1.13.0
+* [Support 1.21.1 (#31)](https://github.com/PrismarineJS/minecraft-assets/commit/e901c88d0dd515e8caf3f59457440ecc3818a417) (thanks @Icyadam14)
+
 ## 1.12.1
 * [Update tag.yml](https://github.com/PrismarineJS/minecraft-assets/commit/53630152fa16b16c8c6df7d65a5c314679d13d83) (thanks @rom1504)
 
