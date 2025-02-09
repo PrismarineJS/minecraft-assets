@@ -1,3 +1,6 @@
+## 1.14.0
+* [1.21.4 (#33)](https://github.com/PrismarineJS/minecraft-assets/commit/a95e329c161b7fdd19de9f78d0a91c45da57d921) (thanks @SuperGamerTron)
+
 ## 1.13.0
 * [Support 1.21.1 (#31)](https://github.com/PrismarineJS/minecraft-assets/commit/e901c88d0dd515e8caf3f59457440ecc3818a417) (thanks @Icyadam14)
 
