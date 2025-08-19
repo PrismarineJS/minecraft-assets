@@ -1,3 +1,8 @@
+## 1.15.0
+* [Add 1.21.7 data (#38)](https://github.com/PrismarineJS/minecraft-assets/commit/e4e3b5ceceb2d1064fe1fe8fc2472798decf3dcc) (thanks @bedrock-bot)
+* [Add 1.21.6 data (#37)](https://github.com/PrismarineJS/minecraft-assets/commit/29f1abf519011ac719982b0ce7ade3f0f3ee2c29) (thanks @bedrock-bot)
+* [Add 1.21.5 data (#36)](https://github.com/PrismarineJS/minecraft-assets/commit/8866af6e6166be442568ca56ebbb388fe62bd075) (thanks @bedrock-bot)
+
 ## 1.14.0
 * [1.21.4 (#33)](https://github.com/PrismarineJS/minecraft-assets/commit/a95e329c161b7fdd19de9f78d0a91c45da57d921) (thanks @SuperGamerTron)
 
