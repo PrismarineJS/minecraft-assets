@@ -1,6 +1,6 @@
 # minecraft-assets
 
-Provide minecraft 1.8.8, 1.9, 1.10, 1.11.2, 1.12, 1.13, 1.13.2, 1.14.4, 1.15.2, 1.16.1, 1.16.4, 1.17.1, 1.18.1, 1.19.1, 1.20.2, 1.21.1, 1.21.4, 1.21.5, 1.21.6 and 1.21.7 assets along with json files that help to use them.
+Provide minecraft 1.8.8, 1.9, 1.10, 1.11.2, 1.12, 1.13, 1.13.2, 1.14.4, 1.15.2, 1.16.1, 1.16.4, 1.17.1, 1.18.1, 1.19.1, 1.20.2, 1.21.1, 1.21.4, 1.21.5, 1.21.6, 1.21.7 and 1.21.8 assets along with json files that help to use them.
 
 Generated using [image_names.js](https://github.com/PrismarineJS/minecraft-jar-extractor/blob/master/image_names.js)
 
