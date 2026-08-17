@@ -1,3 +1,7 @@
+## 1.17.0
+* [Add Minecraft 26.1 assets (#50)](https://github.com/PrismarineJS/minecraft-assets/commit/ec221db8a11b292e3c682663ba8c82d8bd0ed16d) (thanks @u9g)
+* [Add 1.21.9, 1.21.10, 1.21.11 data (#46)](https://github.com/PrismarineJS/minecraft-assets/commit/3b7b8805790b87acd7e4a50dc525a453516d3e9d) (thanks @domdomegg)
+
 ## 1.16.0
 * [Add version 1.21.8 (#43)](https://github.com/PrismarineJS/minecraft-assets/commit/7926330382c886122aee42b3531b4992b3807583) (thanks @rom1504bot)
 * [Add automated update system for minecraft asset generation (#42)](https://github.com/PrismarineJS/minecraft-assets/commit/e8bbe1fdfadf8b5f8bb4d1ea6214f3d0b9dffec7) (thanks @extremeheat)
