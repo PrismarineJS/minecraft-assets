@@ -6358,5 +6358,275 @@
     "blockState": "heavy_core",
     "model": "minecraft:blocks/heavy_core",
     "texture": "blocks/heavy_core"
+  },
+  {
+    "name": "pale_oak_wood",
+    "blockState": "pale_oak_wood",
+    "model": "minecraft:blocks/pale_oak_wood",
+    "texture": "minecraft:blocks/pale_oak_log"
+  },
+  {
+    "name": "pale_oak_planks",
+    "blockState": "pale_oak_planks",
+    "model": "minecraft:blocks/pale_oak_planks",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_sapling",
+    "blockState": "pale_oak_sapling",
+    "model": "minecraft:blocks/pale_oak_sapling",
+    "texture": "minecraft:blocks/pale_oak_sapling"
+  },
+  {
+    "name": "pale_oak_log",
+    "blockState": "pale_oak_log",
+    "model": "minecraft:blocks/pale_oak_log_horizontal",
+    "texture": "minecraft:blocks/pale_oak_log_top"
+  },
+  {
+    "name": "stripped_pale_oak_log",
+    "blockState": "stripped_pale_oak_log",
+    "model": "minecraft:blocks/stripped_pale_oak_log_horizontal",
+    "texture": "minecraft:blocks/stripped_pale_oak_log_top"
+  },
+  {
+    "name": "stripped_pale_oak_wood",
+    "blockState": "stripped_pale_oak_wood",
+    "model": "minecraft:blocks/stripped_pale_oak_wood",
+    "texture": "minecraft:blocks/stripped_pale_oak_log"
+  },
+  {
+    "name": "pale_oak_leaves",
+    "blockState": "pale_oak_leaves",
+    "model": "minecraft:blocks/pale_oak_leaves",
+    "texture": "minecraft:blocks/pale_oak_leaves"
+  },
+  {
+    "name": "bush",
+    "blockState": "bush",
+    "model": "minecraft:blocks/bush",
+    "texture": "minecraft:blocks/bush"
+  },
+  {
+    "name": "short_dry_grass",
+    "blockState": "short_dry_grass",
+    "model": "minecraft:blocks/short_dry_grass",
+    "texture": "minecraft:blocks/short_dry_grass"
+  },
+  {
+    "name": "tall_dry_grass",
+    "blockState": "tall_dry_grass",
+    "model": "minecraft:blocks/tall_dry_grass",
+    "texture": "minecraft:blocks/tall_dry_grass"
+  },
+  {
+    "name": "creaking_heart",
+    "blockState": "creaking_heart",
+    "model": "minecraft:blocks/creaking_heart_awake_horizontal",
+    "texture": "minecraft:blocks/creaking_heart_top_awake"
+  },
+  {
+    "name": "pale_oak_sign",
+    "blockState": "pale_oak_sign",
+    "model": "minecraft:blocks/pale_oak_sign",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_wall_sign",
+    "blockState": "pale_oak_wall_sign",
+    "model": "minecraft:blocks/pale_oak_sign",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_hanging_sign",
+    "blockState": "pale_oak_hanging_sign",
+    "model": "minecraft:blocks/pale_oak_hanging_sign",
+    "texture": "minecraft:blocks/stripped_pale_oak_log"
+  },
+  {
+    "name": "pale_oak_wall_hanging_sign",
+    "blockState": "pale_oak_wall_hanging_sign",
+    "model": "minecraft:blocks/pale_oak_hanging_sign",
+    "texture": "minecraft:blocks/stripped_pale_oak_log"
+  },
+  {
+    "name": "pale_oak_pressure_plate",
+    "blockState": "pale_oak_pressure_plate",
+    "model": "minecraft:blocks/pale_oak_pressure_plate",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "cactus_flower",
+    "blockState": "cactus_flower",
+    "model": "minecraft:blocks/cactus_flower",
+    "texture": "minecraft:blocks/cactus_flower"
+  },
+  {
+    "name": "pale_oak_trapdoor",
+    "blockState": "pale_oak_trapdoor",
+    "model": "minecraft:blocks/pale_oak_trapdoor_bottom",
+    "texture": "minecraft:blocks/pale_oak_trapdoor"
+  },
+  {
+    "name": "resin_clump",
+    "blockState": "resin_clump",
+    "model": null,
+    "texture": null
+  },
+  {
+    "name": "resin_block",
+    "blockState": "resin_block",
+    "model": "minecraft:blocks/resin_block",
+    "texture": "minecraft:blocks/resin_block"
+  },
+  {
+    "name": "resin_bricks",
+    "blockState": "resin_bricks",
+    "model": "minecraft:blocks/resin_bricks",
+    "texture": "minecraft:blocks/resin_bricks"
+  },
+  {
+    "name": "resin_brick_stairs",
+    "blockState": "resin_brick_stairs",
+    "model": "minecraft:blocks/resin_brick_stairs_inner",
+    "texture": "minecraft:blocks/resin_bricks"
+  },
+  {
+    "name": "resin_brick_slab",
+    "blockState": "resin_brick_slab",
+    "model": "minecraft:blocks/resin_brick_slab",
+    "texture": "minecraft:blocks/resin_bricks"
+  },
+  {
+    "name": "resin_brick_wall",
+    "blockState": "resin_brick_wall",
+    "model": null,
+    "texture": null
+  },
+  {
+    "name": "chiseled_resin_bricks",
+    "blockState": "chiseled_resin_bricks",
+    "model": "minecraft:blocks/chiseled_resin_bricks",
+    "texture": "minecraft:blocks/chiseled_resin_bricks"
+  },
+  {
+    "name": "potted_pale_oak_sapling",
+    "blockState": "potted_pale_oak_sapling",
+    "model": "minecraft:blocks/potted_pale_oak_sapling",
+    "texture": "minecraft:blocks/pale_oak_sapling"
+  },
+  {
+    "name": "pale_oak_button",
+    "blockState": "pale_oak_button",
+    "model": "minecraft:blocks/pale_oak_button",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_stairs",
+    "blockState": "pale_oak_stairs",
+    "model": "minecraft:blocks/pale_oak_stairs_inner",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_slab",
+    "blockState": "pale_oak_slab",
+    "model": "minecraft:blocks/pale_oak_slab",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_fence_gate",
+    "blockState": "pale_oak_fence_gate",
+    "model": "minecraft:blocks/pale_oak_fence_gate",
+    "texture": "minecraft:blocks/pale_oak_planks"
+  },
+  {
+    "name": "pale_oak_fence",
+    "blockState": "pale_oak_fence",
+    "model": null,
+    "texture": null
+  },
+  {
+    "name": "pale_oak_door",
+    "blockState": "pale_oak_door",
+    "model": "minecraft:blocks/pale_oak_door_bottom_left",
+    "texture": "minecraft:blocks/pale_oak_door_bottom"
+  },
+  {
+    "name": "dried_ghast",
+    "blockState": "dried_ghast",
+    "model": "minecraft:blocks/dried_ghast_hydration_0",
+    "texture": "minecraft:blocks/dried_ghast_hydration_0_bottom"
+  },
+  {
+    "name": "test_block",
+    "blockState": "test_block",
+    "model": "minecraft:blocks/test_block_accept",
+    "texture": "minecraft:blocks/test_block_accept"
+  },
+  {
+    "name": "test_instance_block",
+    "blockState": "test_instance_block",
+    "model": "minecraft:blocks/test_instance_block",
+    "texture": "minecraft:blocks/test_instance_block"
+  },
+  {
+    "name": "wildflowers",
+    "blockState": "wildflowers",
+    "model": null,
+    "texture": null
+  },
+  {
+    "name": "leaf_litter",
+    "blockState": "leaf_litter",
+    "model": null,
+    "texture": null
+  },
+  {
+    "name": "pale_moss_block",
+    "blockState": "pale_moss_block",
+    "model": "minecraft:blocks/pale_moss_block",
+    "texture": "minecraft:blocks/pale_moss_block"
+  },
+  {
+    "name": "pale_moss_carpet",
+    "blockState": "pale_moss_carpet",
+    "model": null,
+    "texture": null
+  },
+  {
+    "name": "pale_hanging_moss",
+    "blockState": "pale_hanging_moss",
+    "model": "minecraft:blocks/pale_hanging_moss",
+    "texture": "minecraft:blocks/pale_hanging_moss"
+  },
+  {
+    "name": "open_eyeblossom",
+    "blockState": "open_eyeblossom",
+    "model": "minecraft:blocks/open_eyeblossom",
+    "texture": "minecraft:blocks/open_eyeblossom"
+  },
+  {
+    "name": "closed_eyeblossom",
+    "blockState": "closed_eyeblossom",
+    "model": "minecraft:blocks/closed_eyeblossom",
+    "texture": "minecraft:blocks/closed_eyeblossom"
+  },
+  {
+    "name": "potted_open_eyeblossom",
+    "blockState": "potted_open_eyeblossom",
+    "model": "minecraft:blocks/potted_open_eyeblossom",
+    "texture": "minecraft:blocks/open_eyeblossom_emissive"
+  },
+  {
+    "name": "potted_closed_eyeblossom",
+    "blockState": "potted_closed_eyeblossom",
+    "model": "minecraft:blocks/potted_closed_eyeblossom",
+    "texture": "minecraft:blocks/closed_eyeblossom"
+  },
+  {
+    "name": "firefly_bush",
+    "blockState": "firefly_bush",
+    "model": "minecraft:blocks/firefly_bush",
+    "texture": "minecraft:blocks/firefly_bush"
   }
 ]
